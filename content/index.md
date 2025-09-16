@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: между даннингом и крюгером 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Здесь мои посты из телеграм-канала https://t.me/greegorey_live
